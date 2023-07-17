@@ -6,3 +6,5 @@ This tutorial focuses on github
 This repository is built step by step in the tutorial.
 
 It now includes steps for github.
+
+cahnges are finalised
